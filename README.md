@@ -2,7 +2,7 @@
 
 ##Caeser
 
-##Author : Muhudin Abdi
+##Author : Muhudin Abd
 
 ###Contributors: Muhudin Abdi
 
