@@ -8,7 +8,7 @@
 
 ###Languages used:
 
-1.JAVA.
+1.JAVA
 2.Gradle.
 3.Junit5.
 
