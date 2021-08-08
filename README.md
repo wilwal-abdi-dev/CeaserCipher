@@ -1,6 +1,6 @@
 # caeserCipher Project name{
 
-##Caese
+##Caeser
 
 ##Author : Muhudin Abdi
 
