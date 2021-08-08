@@ -6,7 +6,7 @@
 
 ###Contributors: Muhudin Abdi
 
-###Languages used
+###Languages used:
 
 1.JAVA.
 2.Gradle.
