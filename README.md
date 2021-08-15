@@ -1,16 +1,40 @@
-# caeserCipher Project name{
+# caeserCipher Project name
 
 ##Caeser
+A Ceaser cipher is a simple method of encoding messages.
+It uses a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet.
 
-##Author : Muhudin Abdi
+##Author :
+ Muhudin Abdi
 
-###Contributors: Muhudin Abdi
+###Contributors:
+ Muhudin Abdi
+ 
+ ##project set up:
+ * Install the java software development kit (sdk)
+ * Install java
+ * Install gradle
+ * To run the program in the terminal you can use 'gradle run' command
+
+
+## BEHAVIOUR DRIVEN DEVELOPMENT:
+|behaviour   | input  |  output |   |
+|---|---|---|---|
+| encrypt text|input any string|  | displays the encrypted text  |
+| decrypts encrypted string| input string | displays the dencrypted text   |
+## Known Bugs:
+May run on
+ vscode,
+ intelli j IDEs.
 
 ###Languages used:
-
 1.JAVA.
-2.Gradle.
+_openjdk version 11.0.11;
+_JDK Runtime Enviroment AdoptOpen JDK
+2.Gradle-build.gradle
 3.Junit5.
+4.Git
+5.Intelli J IDEA
 
 ###license{ MIT License
 
