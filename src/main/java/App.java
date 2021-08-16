@@ -28,7 +28,7 @@ public class App {
 
                 // Output encoded t
                 System.out.println("Your cipher text is : " + Encrypt.encrypting((plainText) , key));
-            } else if (choice.equals("Decode")){
+            } else if (choice.equals("Decrypt")){
                 // Types in the coded texts
                 Scanner cipherInput =  new Scanner(System.in);
                 System.out.println("Enter the coded text : ");

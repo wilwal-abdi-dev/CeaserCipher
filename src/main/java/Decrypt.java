@@ -1,6 +1,6 @@
 public class Decrypt {
 
-    public static StringBuffer decrypting(String cipherText, int shift){
+    static StringBuffer decrypting(String cipherText, int shift){
 
         //Decrypt the text
         StringBuffer decrypt= new StringBuffer();
